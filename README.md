@@ -1,1 +1,2 @@
 # productstr
+Resolve the conflict
